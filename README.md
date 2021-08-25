@@ -1,16 +1,15 @@
-# flutter_app9
+# Burger Purchase App
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
+This project is an app for buying different types of burgers
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Here are the packages i used for it:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [CarouselSlider](https://pub.dev/packages/carousel_slider)
+- [Font_awesome](https://pub.dev/packages/font_awesome_flutter)
+
+Feel free to correct, modify, and use my code for any purpose!
+(Don't forget to give credit!)
